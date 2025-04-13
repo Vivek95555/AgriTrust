@@ -15,10 +15,6 @@ AgriTrust is an AI-powered platform designed to empower farmers with personalize
 - Extract insights from soil health reports (PDFs) using Gemini API
 - Recommend best crops based on soil type and health
 
-### Equipment Sharing Network
-- Borrow or lend agricultural tools with nearby farmers
-- Notifications for due dates and returns
-
 ### Scheme & Loan Recommender
 - Personalized government scheme suggestions
 - Crop loan recommendations
@@ -27,3 +23,10 @@ AgriTrust is an AI-powered platform designed to empower farmers with personalize
 ### AI-Powered Insights
 - Gemini API integrated for smart text interpretation
 - Intelligent, region-specific suggestions
+
+### Tech Stack
+Frontend	Streamlit – for building interactive UI in Python
+Backend / AI	Python – core logic and data processing
+Gemini API – for AI-powered text and PDF analysis
+Localization -	Gujarati language support for broader accessibility
+PDF Processing - Gemini API + Python for reading and extracting data from soil reports
