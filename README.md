@@ -25,12 +25,12 @@ AgriTrust is an AI-powered platform designed to empower farmers with personalize
 - Intelligent, region-specific suggestions
 
 ### Tech Stack
--Frontend	Streamlit – for building interactive UI in Python
+Frontend	Streamlit – for building interactive UI in Python
 
--Backend / AI	Python – core logic and data processing
+Backend / AI	Python – core logic and data processing
 
--Gemini API – for AI-powered text and PDF analysis
+Gemini API – for AI-powered text and PDF analysis
 
--Localization -	Gujarati language support for broader accessibility
+Localization -	Gujarati language support for broader accessibility
 
--PDF Processing - Gemini API + Python for reading and extracting data from soil reports
+PDF Processing - Gemini API + Python for reading and extracting data from soil reports
